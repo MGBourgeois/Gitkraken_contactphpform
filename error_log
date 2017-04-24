@@ -1,0 +1,21 @@
+[31-Mar-2017 17:22:01 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home/mgbou719/public_html/contactphp/index.php on line 58
+[31-Mar-2017 17:23:00 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home/mgbou719/public_html/contactphp/index.php on line 58
+[31-Mar-2017 17:25:55 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home/mgbou719/public_html/contactphp/index.php on line 58
+[31-Mar-2017 17:30:49 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home/mgbou719/public_html/contactphp/index.php on line 58
+[31-Mar-2017 17:31:15 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home/mgbou719/public_html/contactphp/index.php on line 58
+[31-Mar-2017 17:32:32 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home/mgbou719/public_html/contactphp/index.php on line 58
+[31-Mar-2017 17:32:35 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home/mgbou719/public_html/contactphp/index.php on line 58
+[31-Mar-2017 17:41:51 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home/mgbou719/public_html/contactphp/index.php on line 58
+[31-Mar-2017 19:43:00 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/mgbou719/public_html/contactphp/index.php on line 86
+[31-Mar-2017 19:43:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/mgbou719/public_html/contactphp/index.php on line 85
+[31-Mar-2017 19:43:32 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/mgbou719/public_html/contactphp/index.php on line 85
+[31-Mar-2017 19:44:32 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/mgbou719/public_html/contactphp/index.php on line 87
+[31-Mar-2017 19:46:12 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/mgbou719/public_html/contactphp/index.php on line 87
+[01-Apr-2017 06:16:19 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/mgbou719/public_html/contactphp/index.php on line 15
+[01-Apr-2017 06:16:30 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/mgbou719/public_html/contactphp/index.php on line 15
+[01-Apr-2017 06:43:03 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/mgbou719/public_html/contactphp/index.php on line 27
+[02-Apr-2017 05:25:38 UTC] PHP Parse error:  syntax error, unexpected 'alert' (T_STRING) in /home/mgbou719/public_html/contactphp/index.php on line 26
+[02-Apr-2017 06:46:20 UTC] PHP Parse error:  syntax error, unexpected 'name' (T_STRING) in /home/mgbou719/public_html/contactphp/index.php on line 30
+[02-Apr-2017 06:46:22 UTC] PHP Parse error:  syntax error, unexpected 'name' (T_STRING) in /home/mgbou719/public_html/contactphp/index.php on line 30
+[02-Apr-2017 06:48:46 UTC] PHP Parse error:  syntax error, unexpected 'name' (T_STRING) in /home/mgbou719/public_html/contactphp/index.php on line 30
+[02-Apr-2017 06:48:47 UTC] PHP Parse error:  syntax error, unexpected 'name' (T_STRING) in /home/mgbou719/public_html/contactphp/index.php on line 30
